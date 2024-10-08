@@ -6,8 +6,7 @@ export default function Footer() {
   return (
     <footer className="footer">
       <p className="footer-text">
-        © {currentYear} Moviedux, All rights reserved
-        <p>Made with 💓 by Aishwarya</p>
+        © {currentYear} Moviedux, All rights reserved, Made with 💓 by Aishwarya
       </p>
     </footer>
   );
